@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Candidate, <a href='https://www.amse-aixmarseille.fr/fr'>Aix-Marseille School of Economics</a>
 
 profile:
   align: right
