@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, <a href='https://www.amse-aixmarseille.fr/fr'>Aix-Marseille School of Economics</a>
+subtitle: <p>Ph.D. Candidate, <a href='https://www.amse-aixmarseille.fr/fr'>Aix-Marseille School of Economics</a></p><p>mykhailo[dot]matvieiev[at]univ-amu[dot]fr</p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mykhailo[dot]matvieiev[at]univ-amu[dot]fr</p>
+    <p>Mykhailo Matvieiev</p>
     <p>5-9 Bd Maurice Bourdett</p>
     <p>Marseille, France</p>
 
