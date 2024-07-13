@@ -7,14 +7,14 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<b>Econometrics I</b>, 2023, for Bachelors 3rd year, in English<br>
+Teaching Assistant, Aix-Marseille University, France
 
-{% if site.search_enabled %}
-<input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
-{% endif %}
+<b>Mathematics</b> II, 2023, for Bachelors 2nd year, in French<br>
+Teaching Assistant, Aix-Marseille University, France
 
-<div class="publications">
+<b>Mathematics I</b>, 2023, for Bachelors 1st year, in French<br>
+Teaching Assistant, Aix-Marseille University, France
 
-{% bibliography %}
-
-</div>
+<b>Microeconomics</b>, 2018, for Masters 1st year, in English<br>
+Teaching Assistant, Kyiv School of Economics, Ukraine
