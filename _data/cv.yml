@@ -8,7 +8,7 @@
     - name: Languages
       value: English, German
 
-- title: Education
+- title: Job-Market Paper
   type: time_table
   contents:
     - title: PhD
@@ -28,7 +28,7 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Publications
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
