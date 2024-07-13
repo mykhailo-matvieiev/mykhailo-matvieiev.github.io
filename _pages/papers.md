@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: papers
 permalink: /Papers/
 title: Papers
 nav: true
