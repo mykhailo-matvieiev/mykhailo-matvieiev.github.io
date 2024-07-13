@@ -1,12 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Econometrics I 2023, for Bachelors 3rd year, in English
+TA, Aix-Marseille University, France
 
-Organize your courses by years, topics, or universities, however you like!
+Mathematics II 2023, for Bachelors 2nd year, in French
+Teaching Assistant, Aix-Marseille University, France
+
+Mathematics I 2023, for Bachelors 1st year, in French
+Teaching Assistant, Aix-Marseille University, France
+
+Microeconomics 2018, for Masters 1st year, in English
+Teaching Assistant, Kyiv School of Economics, Ukraine
