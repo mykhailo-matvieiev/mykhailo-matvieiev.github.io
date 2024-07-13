@@ -7,14 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-Econometrics I 2023, for Bachelors 3rd year, in English
-TA, Aix-Marseille University, France
-
-Mathematics II 2023, for Bachelors 2nd year, in French
+<b>Econometrics I</b>, 2023, for Bachelors 3rd year, in English<br>
 Teaching Assistant, Aix-Marseille University, France
 
-Mathematics I 2023, for Bachelors 1st year, in French
+<b>Mathematics</b> II, 2023, for Bachelors 2nd year, in French<br>
 Teaching Assistant, Aix-Marseille University, France
 
-Microeconomics 2018, for Masters 1st year, in English
+<b>Mathematics I</b>, 2023, for Bachelors 1st year, in French<br>
+Teaching Assistant, Aix-Marseille University, France
+
+<b>Microeconomics</b>, 2018, for Masters 1st year, in English<br>
 Teaching Assistant, Kyiv School of Economics, Ukraine
