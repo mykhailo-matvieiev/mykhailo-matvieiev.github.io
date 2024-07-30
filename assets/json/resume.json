@@ -11,7 +11,7 @@
       "institution": "Aix-Marseille School of Economics",
       "location": "Marseille, France",
       "url": "",
-      "area": "Software Development",
+      "area": "",
       "studyType": "Ph.D. candidate",
       "startDate": "2020",
       "endDate": ""
@@ -34,7 +34,7 @@
     }  ,
     {
       "institution": "Kyiv School of Economics",
-      "location": "Kiev, Ukraine",
+      "location": " Kiev,  Ukraine ",
       "url": "",
       "area": "",
       "studyType": "M.A. in Economic Analysis",
@@ -122,7 +122,7 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
+      "name": "On natural interest rate volatility",
       "publisher": "European Economic Review",
       "releaseDate": "2024-08",
       "url": "On natural interest rate volatility",
@@ -172,19 +172,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Reference I",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Contact information"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Reference II",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Contact information"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Reference III",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Contact information"
     }
   ],
   "projects": [
