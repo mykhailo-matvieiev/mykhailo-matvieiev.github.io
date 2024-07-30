@@ -1,14 +1,24 @@
 {
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Aix-Marseille School of Economics",
+      "location": "Marseille, France",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2020",
+      "endDate": "current",
       "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+    {
+      "institution": "Aix-Marseille School of Economics",
+      "location": "Marseille, France",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "2020",
+      "endDate": "current",
       "courses": ["Theory of Relativity"]
     }
   ],
