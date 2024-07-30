@@ -1,12 +1,12 @@
-- title: Job-Market Paper
+- title: Basic Information
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mykhailo Matvieiev
+    - name: Citizenship
+      value: Ukraine
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Job-Market Paper2
   type: time_table
