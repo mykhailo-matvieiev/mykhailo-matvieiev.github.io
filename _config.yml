@@ -630,10 +630,10 @@ jsonresume:
   #- work
   - education
   - publications
-  - projects
+  #- projects
   #- volunteer
-  - awards
-  - certificates
-  - skills
+  #- awards
+  #- certificates
+  #- skills
   - references #- languages
-  - interests
+  #- interests
