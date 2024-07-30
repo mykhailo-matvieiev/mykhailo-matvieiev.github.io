@@ -1,10 +1,18 @@
 {
+ "basics": {
+    "name": "Mykhailo Matvieiev",
+    "citizenship": "Ukrainian",
+    "image": "",
+    "languages": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+     
+  },  
   "education": [
     {
       "institution": "Aix-Marseille School of Economics",
       "location": "Marseille, France",
       "url": "",
-      "thesis": "Software Development",
+      "area": "Software Development",
       "studyType": "Ph.D. candidate",
       "startDate": "2020",
       "endDate": ""
@@ -13,9 +21,10 @@
       "institution": "European University Institute",
       "location": "Florence, France",
       "url": "",
-      "area": "Software Development",
+      "area": "",
       "studyType": "Short-term Visiting Stay",
-      "startDate": "2022"
+      "startDate": "2022",
+      "endDate": "2022"
     }  ,
     {
       "institution": "Aix-Marseille School of Economics",
@@ -27,36 +36,15 @@
       "endDate": "2020"
     }  ,
     {
-      "institution": "Aix-Marseille School of Economics",
-      "location": "Marseille, France",
-      "url": "",
-      "area": "Kyiv School of Economics",
+      "institution": "Kyiv School of Economics",
+      "location": "Kiev, Ukraine",
+      "area": "",
       "studyType": "M.A. in Economic Analysis",
       "startDate": "2016",
       "endDate": "2018"
     } 
   ],
-  "basics": {
-    "name": "Mykhailo Matvieiev",
-    "citizenship": "Scientist",
-    "image": "",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+ 
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
