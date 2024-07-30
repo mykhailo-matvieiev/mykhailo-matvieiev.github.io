@@ -8,9 +8,10 @@ nav_order: 2
 ---
 
 
-<h3>Job-Market Paper</h3> 
+<h3><u>Job-Market Paper</u></h3> 
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>", job-market paper
+<br/><br/><br/>
 
 <h3><u>Publications</u></h3>
  
@@ -19,15 +20,17 @@ with E. Challe, R&R European Economic Review
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" <br/>
 pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (2022)
+<br/><br/><br/>
 
-<h3><b>Work in Progress</b>b></h3>
+<h3><u>Work in Progress</u></h3>
 
 "<b>Endogenous uncertainty and Keynesian supply shocks</b>" with Céline Poilly and Anastasiia Antonova
 
 "<b>Age-specific income risk and consumption over the life-cycle</b>" with Anastasiia Antonova
 
 "<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova
+<br/><br/><br/>
 
-<h3>Other Peer-Reviewed Writing</h3>
+<h3>Other </u>Peer-Reviewed Writing<u></h3>
 
 "Ukraine’s agriculture and farmland market: the impact of war", VoxUkraine, 2023 
