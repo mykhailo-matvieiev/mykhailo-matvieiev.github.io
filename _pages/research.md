@@ -10,7 +10,7 @@ nav_order: 2
 
 <h3>Job-Market Paper</h3> 
 
-"<b>Precautionary saving, wage risk, and cyclical reallocation<b>", job-market paper
+"<b>Precautionary saving, wage risk, and cyclical reallocation</b>", job-market paper
 
 <h3>Publications</h3>
  
@@ -24,7 +24,7 @@ pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (202
 
 "<b>Endogenous uncertainty and Keynesian supply shocks</b>" with Céline Poilly and Anastasiia Antonova
 
-"Age-specific income risk and consumption over the life-cycle</b>" with Anastasiia Antonova
+"<b>Age-specific income risk and consumption over the life-cycle</b>" with Anastasiia Antonova
 
 "<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova
 
