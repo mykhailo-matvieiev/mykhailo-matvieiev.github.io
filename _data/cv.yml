@@ -1,4 +1,4 @@
-- title: General Information
+- title: Job-Market Paper
   type: map
   contents:
     - name: Full Name
@@ -8,7 +8,7 @@
     - name: Languages
       value: English, German
 
-- title: Job-Market Paper
+- title: Job-Market Paper2
   type: time_table
   contents:
     - title: PhD
@@ -28,7 +28,7 @@
         - Description 1.
         - Description 2.
 
-- title: Publications
+- title: Job-Market Paper3
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
