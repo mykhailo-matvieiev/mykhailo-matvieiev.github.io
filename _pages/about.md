@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Economics at the Aix-Marseille School of Economics. 
+I am a PhD candidate in Economics at the Aix-Marseille School of Economics. I am on the 2024/2025 Job Market.
 
 My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
