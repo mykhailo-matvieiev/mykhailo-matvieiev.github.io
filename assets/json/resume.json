@@ -25,24 +25,7 @@
       "studyType": "Short-term Visiting Stay",
       "startDate": "2022",
       "endDate": "2022"
-    }  ,
-    {
-      "institution": "Aix-Marseille School of Economics",
-      "location": "Marseille, France",
-      "url": "",
-      "area": "Software Development",
-      "studyType": "Master in Economics",
-      "startDate": "2018",
-      "endDate": "2020"
-    }  ,
-    {
-      "institution": "Kyiv School of Economics",
-      "location": "Kiev, Ukraine",
-      "area": "",
-      "studyType": "M.A. in Economic Analysis",
-      "startDate": "2016",
-      "endDate": "2018"
-    } 
+    }  
   ],
  
   "work": [
