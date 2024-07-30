@@ -12,7 +12,7 @@ nav_order: 2
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>", job-market paper
 
-<h3>Publications</h3>
+<h3><u>Publications</u></h3>
  
 "<b>On natural interest rate volatility</b>" <br/>
 with E. Challe, R&R European Economic Review
@@ -20,7 +20,7 @@ with E. Challe, R&R European Economic Review
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" <br/>
 pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (2022)
 
-<h3>Work in Progress</h3>
+<h3><b>Work in Progress</b>b></h3>
 
 "<b>Endogenous uncertainty and Keynesian supply shocks</b>" with Céline Poilly and Anastasiia Antonova
 
@@ -30,5 +30,4 @@ pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (202
 
 <h3>Other Peer-Reviewed Writing</h3>
 
-"Ukraine’s agriculture and farmland market: the impact of war", VoxUkraine, 2023
-"Land Reform in the Credit Cycle Framework: The Case of Ukraine", Visnyk of the National Bank of Ukraine, 2018
+"Ukraine’s agriculture and farmland market: the impact of war", VoxUkraine, 2023 
