@@ -3,8 +3,8 @@
     {
       "institution": "Aix-Marseille School of Economics",
       "location": "Marseille, France",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "url": "",
+      "thesis": "Software Development",
       "studyType": "Ph.D. candidate",
       "startDate": "2020",
       "endDate": ""
@@ -12,17 +12,34 @@
     {
       "institution": "European University Institute",
       "location": "Florence, France",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Software Development",
       "studyType": "Short-term Visiting Stay",
       "startDate": "2022"
+    }  ,
+    {
+      "institution": "Aix-Marseille School of Economics",
+      "location": "Marseille, France",
+      "url": "",
+      "area": "Software Development",
+      "studyType": "Master in Economics",
+      "startDate": "2018",
+      "endDate": "2020"
+    }  ,
+    {
+      "institution": "Aix-Marseille School of Economics",
+      "location": "Marseille, France",
+      "url": "",
+      "area": "Kyiv School of Economics",
+      "studyType": "M.A. in Economic Analysis",
+      "startDate": "2016",
+      "endDate": "2018"
     } 
   ],
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mykhailo Matvieiev",
+    "citizenship": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
