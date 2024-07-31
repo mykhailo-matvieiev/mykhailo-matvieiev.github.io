@@ -8,12 +8,12 @@ nav_order: 2
 ---
 
 
-<h3><u>Job-Market Paper</u></h3> 
+<h5><u>Job-Market Paper</u></h5> 
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>", job-market paper
 <br/><br/><br/>
 
-<h4><u>Publications</u></h4>
+<h5><u>Publications</u></h5>
  
 "<b>On natural interest rate volatility</b>" <br/>
 with E. Challe, R&R European Economic Review
@@ -31,6 +31,6 @@ pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (202
 "<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova
 <br/><br/><br/>
 
-<h3><u>Other Peer-Reviewed Writing<u></h3>
+<h5><u>Other Peer-Reviewed Writing</u></h5>
 
 "Ukraine’s agriculture and farmland market: the impact of war", VoxUkraine, 2023 
