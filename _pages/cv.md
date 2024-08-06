@@ -5,9 +5,8 @@ title: Curriculum vitae
 nav: true
 nav_order: 3
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: You can download my CV by clicking on the icon on the right. A short summary is below.
 toc:
   sidebar: left
 ---
 
-Blah Blah
