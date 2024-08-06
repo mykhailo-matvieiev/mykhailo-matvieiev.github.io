@@ -23,6 +23,6 @@ I am a PhD candidate in Economics at the Aix-Marseille School of Economics. I am
 My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
 
-My CV can be found [here](https://mykhailo-matvieiev.github.io/) 
+My CV can be found [here](https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf) 
 
 My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
