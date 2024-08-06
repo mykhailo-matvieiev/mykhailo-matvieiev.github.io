@@ -16,7 +16,7 @@ nav_order: 2
 <h5><u>Publications</u></h5>
  
 "<b>On natural interest rate volatility</b>" <br/>
-with E. Challe, R&R European Economic Review
+with E. Challe, European Economic Review (2024)
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" <br/>
 pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (2022)
@@ -33,4 +33,4 @@ pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (202
 
 <h5><u>Other Peer-Reviewed Writing</u></h5>
 
-"Ukraine’s agriculture and farmland market: the impact of war", VoxUkraine, 2023 
+"<b>Ukraine’s agriculture and farmland market: the impact of war</b>", VoxUkraine, 2023 
