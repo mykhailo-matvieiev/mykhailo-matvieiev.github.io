@@ -30,12 +30,15 @@ pre-PhD; with M. Karlsson and M. Obrizan, The BE Journal of Macroeconomics (202
 <h5><u>Work in Progress</u></h5>
 
 "<b>Endogenous uncertainty and Keynesian supply shocks</b>" with Céline Poilly and Anastasiia Antonova
+<br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024) </font></i>
 
 "<b>Age-specific income risk and consumption over the life-cycle</b>" with Anastasiia Antonova
+<br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
 "<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova
+<br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2022); 20th Annual Meeting of the
 EEFS International Conference, (2022) </font></i>
 <br/><br/><br/>
