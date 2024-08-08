@@ -12,7 +12,7 @@ nav_order: 2
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>", job-market paper
 <br/>
-<i><font size="-2"> Presentations: 26th Conference in Theories and Methods in Macroeconomics, T2M, (2023); Seminar at the Aix-Marseille School of Economics, (2023);
+<i><font size="-1"> Presentations: 26th Conference in Theories and Methods in Macroeconomics, T2M, (2023); Seminar at the Aix-Marseille School of Economics, (2023);
 Seminar at the Catholic University of Louvain, (2023); Decision Making under Uncertainty Workshop, DeMUr, (2023); 
 22nd Journées Louis-André Gérard-Varet, LAGV, (2023); 19th the Warsaw International Economic Meeting (2024); 
 9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024) </font></i>
