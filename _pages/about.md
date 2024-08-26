@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Ph.D. Candidate, <a href='https://www.amse-aixmarseille.fr/fr'>Aix-Marseille School of Economics</a></p><p>mykhailo.matvieiev[at]univ-amu.fr</p>
+subtitle: <p>Ph.D. Candidate, <a href="https://www.amse-aixmarseille.fr/fr" target="_blank">Aix-Marseille School of Economics</a></p><p>mykhailo.matvieiev[at]univ-amu.fr</p>
 
 profile:
   align: right
