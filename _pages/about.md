@@ -26,3 +26,5 @@ My research interests lie in macroeconomics, with a particular focus on uncertai
 My CV can be found [here](https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf) 
 
 My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
+
+<a href='https://www.amse-aixmarseille.fr/fr'>Aix-Marseille School of Economics</a></p><p>mykhailo.matvieiev[at]univ-amu.fr</p>
