@@ -6,7 +6,7 @@ subtitle: <p>Ph.D. Candidate, <a href="https://www.amse-aixmarseille.fr/fr" targ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mykhailo_matvieiev.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mykhailo Matvieiev</p>
