@@ -23,7 +23,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 "<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" style="color:#909090" target="_blank"><u>E. Challe</u></a> <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
 
-"<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with M. Karlsson and M. Obrizan <br/>
+"<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with <a href="https://sites.google.com/view/martin-karlsson/" style="color:#909090;" target="_blank"><u>M. Karlsson</u></a> and <a href="https://kse.ua/people/maksym-obrizan/" style="color:#909090;" target="_blank"><u>M. Obrizan</u></a> <br/>
 <i><u>The B.E. Journal of Macroeconomics</u> Vol. 23(2), 2022, pp. 637-675</i>; pre-doctoral.
 <br/><br/><br/>
 
@@ -47,7 +47,7 @@ EEFS International Conference, (2022) </font></i>
 
 "<b>The MPC puzzle in HANK &amp; SAM models</b>" 
 
-"<b>Skewed wage risk and consumption over the business cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:#C0C0C0;" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/site/edouardchalle/" style="color:#C0C0C0;" target="_blank"><u>E. Challe</u></a>
+"<b>Skewed wage risk and consumption over the business cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:#909090;" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/site/edouardchalle/" style="color:#909090;" target="_blank"><u>E. Challe</u></a>
 <br/><br/><br/>
 
 <h5><u>Other Peer-Reviewed Writing</u></h5>
