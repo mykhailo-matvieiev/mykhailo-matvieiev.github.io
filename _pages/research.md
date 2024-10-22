@@ -20,7 +20,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 
 <h5><u>Publications</u></h5>
  
-"<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" style="color:red;" target="_blank"><u>E. Challe</u></a> <br/>
+"<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" style="color:#8B0000" target="_blank"><u>E. Challe</u></a> <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with M. Karlsson and M. Obrizan <br/>
