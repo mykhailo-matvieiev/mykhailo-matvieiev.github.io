@@ -15,22 +15,22 @@ nav_order: 2
 <i><font size="-1"> Presentations: 26th Conference in Theories and Methods in Macroeconomics, T2M, (2023); Seminar at the Aix-Marseille School of Economics, (2023);
 Seminar at the Catholic University of Louvain, (2023); Decision Making under Uncertainty Workshop, DeMUr, (2023); 
 22nd Journées Louis-André Gérard-Varet, LAGV, (2023); 19th the Warsaw International Economic Meeting (2024); 
-9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024) </font></i>
+9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024), Doctoral Workshop on Quantitative Dynamic Economics (2024) </font></i>
 <br/><br/><br/>
 
 <h5><u>Publications</u></h5>
  
 "<b>On natural interest rate volatility</b>" with E. Challe <br/>
-<i>European Economic Review, Vol. 167, 2024.</i>
+<i><u>European Economic Review</u>, Vol. 167, 2024.</i>
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with M. Karlsson and M. Obrizan <br/>
-<i>The BE Journal of Macroeconomics Vol. 23(2), 2022, pp. 637-675</i>; pre-doctoral.
+<i><u>The B.E. Journal of Macroeconomics</u> Vol. 23(2), 2022, pp. 637-675</i>; pre-doctoral.
 <br/><br/><br/>
 
 <h5><u>Working Papers</u></h5>
 
 "<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova <a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">[Draft]</a>
-<br/> <i>Revise and resubmit, Journal of Economic Dynamics and Control.</i> <br/>
+<br/> <i>Revise and resubmit, <u>Journal of Economic Dynamics and Control</u>.</i> <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2022); 20th Annual Meeting of the
 EEFS International Conference, (2022) </font></i>
 
