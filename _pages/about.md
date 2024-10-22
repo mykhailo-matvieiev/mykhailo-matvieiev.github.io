@@ -26,3 +26,8 @@ My research interests lie in macroeconomics, with a particular focus on uncertai
 My CV can be found <a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Here</a> 
 
 My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
+
+
+<b>Latest:</b>
+August 2024, Revise & resubmit: "News and firm entry: the role of waiting option" with A. Antonova, Journal of Economic Dynamics and Control  
+June 2024, Accepted: "On natural interest rate volatility" with E. Challe, European Economic Review
