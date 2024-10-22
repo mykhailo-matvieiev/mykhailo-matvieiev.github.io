@@ -35,6 +35,6 @@ My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
 
 <b>Latest:</b>
 
-August 2024, Revise & resubmit in <i>Journal of Economic Dynamics and Control</i>: "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:#909090;" target="_blank"><u>A. Antonova</u></a>
+August 2024, <b>R&R</b> in <i><u>Journal of Economic Dynamics and Control</u></i>: "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:#909090;" target="_blank"><u>A. Antonova</u></a>
 
-June 2024, Accepted in <i>European Economic Review</i>: "On natural interest rate volatility" with <a href="https://sites.google.com/site/edouardchalle/" style="color:#909090;" target="_blank"><u>E. Challe</u></a>
+June 2024, <b>Accepted</b> in <i><u>European Economic Review</u></i>: "On natural interest rate volatility" with <a href="https://sites.google.com/site/edouardchalle/" style="color:#909090;" target="_blank"><u>E. Challe</u></a>
