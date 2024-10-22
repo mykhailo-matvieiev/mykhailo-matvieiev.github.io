@@ -29,7 +29,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 
 <h5><u>Working Papers</u></h5>
 
-"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" style="color:#909090;" target="_blank">[Draft]</a>
+"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>]
 <br/> <i>Revise and resubmit, <u>Journal of Economic Dynamics and Control</u>.</i> <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2022); 20th Annual Meeting of the
 EEFS International Conference, (2022) </font></i>
