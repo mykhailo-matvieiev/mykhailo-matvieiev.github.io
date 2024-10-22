@@ -34,7 +34,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2022); 20th Annual Meeting of the
 EEFS International Conference, (2022) </font></i>
 
-"<b>Age-specific income risk and consumption over the life-cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" style="color:#909090;" target="_blank">[Draft]</a>
+"<b>Age-specific income risk and consumption over the life-cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" target="_blank">[Draft]</a>
 <br/> <i>Under review.</i> <br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
