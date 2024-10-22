@@ -38,7 +38,7 @@ EEFS International Conference, (2022) </font></i>
 <br/> <i>Under review.</i> <br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
-"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with Céline Poilly and Anastasiia Antonova
+"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with Céline Poilly and <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">Anastasiia Antonova</a>
 <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024) </font></i>
 <br/><br/><br/>
@@ -47,7 +47,7 @@ EEFS International Conference, (2022) </font></i>
 
 "<b>The MPC puzzle in HANK &amp; SAM models</b>" 
 
-"<b>Skewed wage risk and consumption over the business cycle</b>" with Anastasiia Antonova and Edouard Challe
+"<b>Skewed wage risk and consumption over the business cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank">Anastasiia Antonova</a> and Edouard Challe
 <br/>
 <br/><br/><br/>
 
