@@ -38,7 +38,7 @@ EEFS International Conference, (2022) </font></i>
 <br/> <i>Under review.</i> <br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
-"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/"target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a>
+"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a>
 <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024) </font></i>
 <br/><br/><br/>
