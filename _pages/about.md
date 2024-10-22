@@ -28,8 +28,16 @@ My CV can be found <a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_M
 My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
 
 
+
+
+
+
+
+
+
+
 <b>Latest:</b>
 
-August 2024, Revise & resubmit: "News and firm entry: the role of waiting option" with A. Antonova, Journal of Economic Dynamics and Control 
+August 2024, Revise & resubmit: "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:#909090;" target="_blank"><u>A. Antonova</u></a>, <u>Journal of Economic Dynamics and Control</u> 
 
-June 2024, Accepted: "On natural interest rate volatility" with E. Challe, European Economic Review
+June 2024, Accepted: "On natural interest rate volatility" with a href="https://sites.google.com/site/edouardchalle/" style="color:#909090;" target="_blank"><u>E. Challe</u></a>, <u>European Economic Review</u>
