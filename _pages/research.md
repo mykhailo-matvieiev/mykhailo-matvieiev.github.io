@@ -20,7 +20,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 
 <h5><u>Publications</u></h5>
  
-"<b>On natural interest rate volatility</b>" with E. Challe <br/>
+"<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" style="color:red;" target="_blank">E. Challe</a> <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with M. Karlsson and M. Obrizan <br/>
@@ -29,16 +29,16 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 
 <h5><u>Working Papers</u></h5>
 
-"<b>News and firm entry: the role of waiting option</b>" with Anastasiia Antonova <a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">[Draft]</a>
+"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">A. Antonova</a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">[Draft]</a>
 <br/> <i>Revise and resubmit, <u>Journal of Economic Dynamics and Control</u>.</i> <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2022); 20th Annual Meeting of the
 EEFS International Conference, (2022) </font></i>
 
-"<b>Age-specific income risk and consumption over the life-cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">Anastasiia Antonova</a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" target="_blank">[Draft]</a>
+"<b>Age-specific income risk and consumption over the life-cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">A. Antonova</a> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" target="_blank">[Draft]</a>
 <br/> <i>Under review.</i> <br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
-"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">Anastasiia Antonova</a> and Céline Poilly and
+"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">A. Antonova</a> and Céline Poilly and
 <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024) </font></i>
 <br/><br/><br/>
@@ -47,7 +47,7 @@ EEFS International Conference, (2022) </font></i>
 
 "<b>The MPC puzzle in HANK &amp; SAM models</b>" 
 
-"<b>Skewed wage risk and consumption over the business cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">Anastasiia Antonova</a> and <a href="https://sites.google.com/site/edouardchalle/" style="color:red;" target="_blank">Edouard Challe</a>
+"<b>Skewed wage risk and consumption over the business cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" style="color:red;" target="_blank">A. Antonova</a> and <a href="https://sites.google.com/site/edouardchalle/" style="color:red;" target="_blank">E. Challe</a>
 <br/><br/><br/>
 
 <h5><u>Other Peer-Reviewed Writing</u></h5>
