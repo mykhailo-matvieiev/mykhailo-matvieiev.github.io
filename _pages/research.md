@@ -20,7 +20,7 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 
 <h5><u>Publications</u></h5>
  
-"<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> <br/>
+"<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>] <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
 
 "<b>The Macroeconomic Impact of the 1918–19 Influenza Pandemic in Sweden</b>" with <a href="https://sites.google.com/view/martin-karlsson/" target="_blank"><u>M. Karlsson</u></a> and <a href="https://kse.ua/people/maksym-obrizan/" target="_blank"><u>M. Obrizan</u></a> <br/>
@@ -38,7 +38,7 @@ EEFS International Conference, (2022) </font></i>
 <br/> <i>Under review.</i> <br/>
 <i><font size="-1"> Presentations (given by me): 25th Conference in Theories and Methods in Macroeconomics, T2M, (2022); Seminar at the Aix-Marseille School of Economics, (2022); Macro Working Group seminar at the European University Institute, (2022)  </font></i>
 
-"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a>
+"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty.pdf" target="_blank">Draft</a>] [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
 <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024) </font></i>
 <br/><br/><br/>
