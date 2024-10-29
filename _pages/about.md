@@ -30,11 +30,10 @@ My Research Statement is [here](https://mykhailo-matvieiev.github.io/)
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <b>Latest:</b>
+October 2024, <b>New WP</b> "Supply shocks in the fog: the role of endogenous uncertainty" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
 
-August 2024, <b>R&R</b> in <i><u>Journal of Economic Dynamics and Control</u></i> "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>
+August 2024, <b>R&R</b> in <i><u>Journal of Economic Dynamics and Control</u></i> "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>]
 
-June 2024, <b>Accepted</b> in <i><u>European Economic Review</u></i> "On natural interest rate volatility" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a>
+June 2024, <b>Accepted</b> in <i><u>European Economic Review</u></i> "On natural interest rate volatility" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>]
