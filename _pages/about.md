@@ -37,4 +37,4 @@ October 2024, <b>New WP</b> "Supply shocks in the fog: the role of endogenous un
 
 August 2024, <b>R&R</b> in <i><u>Journal of Economic Dynamics and Control</u></i> "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>]
 
-June 2024, <b>Accepted</b> in <i><u>European Economic Review</u></i> "On natural interest rate volatility" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>]
+June 2024, <b>Accepted</b> in <i><u>European Economic Review</u></i> "On natural interest rate volatility" <br/> with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>]
