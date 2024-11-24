@@ -19,12 +19,9 @@ social: true # includes social icons at the bottom of the page
 ---
 <a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Curriculum Vitae</a> <span>&#124;</span> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/Research_Statement.pdf" target="_blank">Research Statement</a> 
 
-I am a PhD candidate in Economics at the Aix-Marseille School of Economics. I am on the 2024/2025 Job Market.
+I am a PhD candidate in Economics at the Aix-Marseille School of Economics. My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
-My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
-
-
-
+My <a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Job-Market Paper</a> investigates how uninsured cyclical wage risk amplifies economic recessions. I am on the 2024/2025 Job Market.
 
 <br/>
 <br/>
