@@ -19,6 +19,9 @@ Seminar at the Catholic University of Louvain, (2023); Decision Making under Unc
 <br/><br/><br/>
 
 <h5><u>Publications</u></h5>
+
+"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>] <br/>
+<i><u>Journal of Economic Dynamics and Control</u>, Accepted</i>
  
 "<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>] <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
