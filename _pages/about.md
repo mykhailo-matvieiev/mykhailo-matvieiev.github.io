@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD candidate in Economics at the Aix-Marseille School of Economics. My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
-My <a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Job-Market Paper</a> investigates how uninsured cyclical wage risk amplifies economic recessions. I am on the 2024/2025 Job Market.
+I will be joining the Bank of Canada in the fall of 2025.
 
 <br/>
 <br/>
