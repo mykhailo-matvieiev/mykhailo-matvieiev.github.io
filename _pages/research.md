@@ -8,20 +8,10 @@ nav_order: 2
 ---
 
 
-<h5><u>Job-Market Paper</u></h5> 
-
-"<b>Precautionary saving, wage risk, and cyclical reallocation</b>" [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Draft</a>]
-<br/>
-<i><font size="-1"> Presentations: 26th Conference in Theories and Methods in Macroeconomics, T2M, (2023); Seminar at the Aix-Marseille School of Economics, (2023);
-Seminar at the Catholic University of Louvain, (2023); Decision Making under Uncertainty Workshop, DeMUr, (2023); 
-22nd Journées Louis-André Gérard-Varet, LAGV, (2023); 19th the Warsaw International Economic Meeting (2024); 
-9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024), Doctoral Workshop on Quantitative Dynamic Economics (2024) </font></i>
-<br/><br/><br/>
-
 <h5><u>Publications</u></h5>
 
 "<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>] <br/>
-<i><u>Journal of Economic Dynamics and Control</u>, Accepted</i>
+<i><u>Journal of Economic Dynamics and Control</u>, Vol. 171, 2025.</i>
  
 "<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>] <br/>
 <i><u>European Economic Review</u>, Vol. 167, 2024.</i>
