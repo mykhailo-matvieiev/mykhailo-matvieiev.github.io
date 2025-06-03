@@ -10,7 +10,7 @@ nav_order: 2
 
 <h5><u>Publications</u></h5>
 
-"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>] <br/>
+"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>] <br/>
 <i><u>Journal of Economic Dynamics and Control</u>, Vol. 171, 2025.</i>
  
 "<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>] <br/>
@@ -23,7 +23,7 @@ nav_order: 2
 <h5><u>Working Papers</u></h5>
  
 
-"<b>The Propagation of Tariff Shocks via Production Networks</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>,  L. Huxel, and <a href="https://sites.google.com/site/muellergernot/" target="_blank"><u>G. Muller</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" target="_blank">Draft</a>]
+"<b>The Propagation of Tariff Shocks via Production Networks</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>,  L. Huxel, and <a href="https://sites.google.com/site/muellergernot/" target="_blank"><u>G. Muller</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>]
 
 "<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty.pdf" target="_blank">Draft</a>] [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
 <br/>
