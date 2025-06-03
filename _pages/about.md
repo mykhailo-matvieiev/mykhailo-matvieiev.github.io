@@ -28,6 +28,7 @@ I will be joining the Bank of Canada in the fall of 2025.
 <br/>
 
 <b>Latest:</b>
+June 2025, <b>New WP</b> in <i><u>Journal of Economic Dynamics and Control</u></i> "The Propagation of Tariff Shocks via Production Networks" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>,  L. Huxel, and <a href="https://sites.google.com/site/muellergernot/" target="_blank"><u>G. Muller</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>]
 
 January 2025, <b>Accepted</b> in <i><u>Journal of Economic Dynamics and Control</u></i> "News and firm entry: the role of waiting option" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>]
  
