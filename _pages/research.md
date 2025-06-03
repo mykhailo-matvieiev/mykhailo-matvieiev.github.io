@@ -27,14 +27,14 @@ nav_order: 2
 
 "<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty.pdf" target="_blank">Draft</a>] [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
 <br/>
-<i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024), Tübingen Macro Brown Bag (2025) </font></i>
+<i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024), Tübingen Macro Brown Bag, (2025) </font></i>
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>" [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Draft</a>]
 <br/>
 <i><font size="-1"> Presentations: 26th Conference in Theories and Methods in Macroeconomics, T2M, (2023); Seminar at the Aix-Marseille School of Economics, (2023);
 Seminar at the Catholic University of Louvain, (2023); Decision Making under Uncertainty Workshop, DeMUr, (2023); 
 22nd Journées Louis-André Gérard-Varet, LAGV, (2023); 19th the Warsaw International Economic Meeting (2024); 
-9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024), Doctoral Workshop on Quantitative Dynamic Economics (2024), Tübingen Macro Brown Bag (2024) </font></i>
+9th CEAFE/Mediterranean Workshop in Economic Theory (2024); The 17th Young Economists Seminar, YES, (2024), Doctoral Workshop on Quantitative Dynamic Economics (2024), Tübingen Macro Brown Bag, (2024) </font></i>
 
 "<b>Age-specific income risk and consumption over the life-cycle</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/ASIR_shock.pdf" target="_blank">Draft</a>]
 <br/>
