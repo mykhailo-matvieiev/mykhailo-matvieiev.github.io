@@ -10,7 +10,7 @@ nav_order: 2
 
 <h5><u>Publications</u></h5>
 
-"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/News_shocks.pdf" target="_blank">Draft</a>] <br/>
+"<b>News and firm entry: the role of waiting option</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>] <br/>
 <i><u>Journal of Economic Dynamics and Control</u>, Vol. 171, 2025.</i>
  
 "<b>On natural interest rate volatility</b>" with <a href="https://sites.google.com/site/edouardchalle/" target="_blank"><u>E. Challe</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Natural_interest_rate.pdf" target="_blank">Draft</a>] <br/>
