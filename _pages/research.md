@@ -27,7 +27,7 @@ nav_order: 2
 
 "<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty.pdf" target="_blank">Draft</a>] [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
 <br/>
-<i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024), Tübingen Macro Brown Bag, (2025) </font></i>
+<i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024), University of Tübingen, (2025), University of Konstanz, (2025) </font></i>
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>" [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Draft</a>]
 <br/>
