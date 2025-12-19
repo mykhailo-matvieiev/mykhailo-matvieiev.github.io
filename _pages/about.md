@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p> Senior Economist, <a href="https://www.bankofcanada.ca/" target="_blank">Bank of Canada</a>, Ph.D.</p><p>mykhailo.matvieiev[at]univ-amu.fr </p>
+subtitle: <p> Senior Economist, <a href="https://www.bankofcanada.ca/" target="_blank">Bank of Canada</a>, Ph.D.</p><p>matvieievmv[at]gmail[dot]com </p>
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Mykhailo Matvieiev</p>
-    <p>5-9 Bd Maurice Bourdett</p>
-    <p>Marseille, France</p>
+    <p>234 Wellington Street</p>
+    <p>Ottawa, ON, K1A 0G9</p>
 
 
 ---
