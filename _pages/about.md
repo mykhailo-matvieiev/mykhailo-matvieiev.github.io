@@ -15,7 +15,7 @@ profile:
 
 
 ---
-<a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Curriculum Vitae</a> <span>&#124;</span> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/Research_Statement.pdf" target="_blank">Research Statement</a> 
+<a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Curriculum Vitae</a> 
 
 I work as a Senior Economist at the Bank of Canada. I earned my PhD from the Aix-Marseille School of Economics in 2025. My research focuses on macroeconomic fluctuations, with particular emphasis on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
