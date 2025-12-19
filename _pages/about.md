@@ -13,9 +13,7 @@ profile:
     <p>5-9 Bd Maurice Bourdett</p>
     <p>Marseille, France</p>
 
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
 ---
 <a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Curriculum Vitae</a> <span>&#124;</span> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/Research_Statement.pdf" target="_blank">Research Statement</a> 
 
