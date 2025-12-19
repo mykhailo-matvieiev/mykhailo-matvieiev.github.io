@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <p>Ph.D. Candidate, <a href="https://www.amse-aixmarseille.fr/fr" target="_blank">Aix-Marseille School of Economics</a></p><p>mykhailo.matvieiev[at]univ-amu.fr </p>
+subtitle: <p> Senior Economist, <a href="https://www.bankofcanada.ca/" target="_blank">Bank of Canada</a>, Ph.D.</p><p>mykhailo.matvieiev[at]univ-amu.fr </p>
 
 profile:
   align: right
@@ -19,9 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 <a href="https://mykhailo-matvieiev.github.io/assets/pdf/CV_Matvieiev.pdf" target="_blank">Curriculum Vitae</a> <span>&#124;</span> <a href="https://mykhailo-matvieiev.github.io/assets/pdf/Research_Statement.pdf" target="_blank">Research Statement</a> 
 
-I am a PhD candidate in Economics at the Aix-Marseille School of Economics. My research interests lie in macroeconomics, with a particular focus on uncertainty and income risk and their implications for aggregate demand and monetary policy.
-
-I will be joining the Bank of Canada in the fall of 2025.
+I work as a Senior Economist at the Bank of Canada. I earned my PhD from the Aix-Marseille School of Economics in 2025. My research focuses on macroeconomic fluctuations, with particular emphasis on uncertainty and income risk and their implications for aggregate demand and monetary policy.
 
 <br/>
 <br/>
