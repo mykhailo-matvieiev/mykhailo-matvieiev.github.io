@@ -21,13 +21,12 @@ nav_order: 2
 <br/><br/><br/>
 
 <h5><u>Working Papers</u></h5>
- 
 
-"<b>The Propagation of Tariff Shocks via Production Networks</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>,  L. Huxel, and <a href="https://sites.google.com/site/muellergernot/" target="_blank"><u>G. Muller</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>]
-
-"<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty.pdf" target="_blank">Draft</a>] [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Endogenous_Uncertainty_WP.pdf" target="_blank">Working Paper</a>]
+ "<b>Supply shocks in the fog: the role of endogenous uncertainty</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a> and <a href="https://sites.google.com/view/celinepoilly" target="_blank"><u>C. Poilly</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/swp2026-12.pdf" target="_blank">BoC Working Paper</a>] <i>Revise and Resubmit in <u>Journal of Monetary Economics</u></i>
 <br/>
 <i><font size="-1"> Presentations (given by me): Decision Making under Uncertainty Workshop, DeMUr, (2024), University of Tübingen, (2025), University of Konstanz, (2025) </font></i>
+
+"<b>The Propagation of Tariff Shocks via Production Networks</b>" with <a href="https://sites.google.com/view/anastasiia-antonova/" target="_blank"><u>A. Antonova</u></a>,  L. Huxel, and <a href="https://sites.google.com/site/muellergernot/" target="_blank"><u>G. Muller</u></a> [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/Tariffs_2025_05.pdf" target="_blank">Draft</a>]
 
 "<b>Precautionary saving, wage risk, and cyclical reallocation</b>" [<a href="https://mykhailo-matvieiev.github.io/assets/pdf/JMP_Matvieiev.pdf" target="_blank">Draft</a>]
 <br/>
